@@ -1,0 +1,15 @@
+[user]
+	name = marktlinn
+	email = marktlinn@gmail.com
+[init]
+	defaultBranch = main
+[color]
+	ui = auto
+[pull]
+	rebase = false
+[core]
+	excludesfile = /home/mark/.gitignore
+[push]
+	autoSetupRemote = true
+[help]
+	autocorrect = prompt
